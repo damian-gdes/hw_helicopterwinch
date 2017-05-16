@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="Helicopter Winch">
+	<Package name="Helicopter Winch">
+		<Container name="Helicopter Winch">
+			<Key ID="STR_HW_AddonName">
+				<Original>Helicopter Winch</Original>
+				<English>Helicopter Winch</English>
+				<Polish>Wyciągarka helikoptera</Polish>
+			</Key>		
+			<Key ID="STR_HW_DeployWinch">
+				<Original>Deploy</Original>
+				<English>Deploy</English>
+				<Polish>Wysuń</Polish>
+			</Key>
+			<Key ID="STR_HW_UnwindWinch">
+				<Original>Unwind</Original>
+				<English>Unwind</English>
+				<Polish>Rozwiń</Polish>
+			</Key>
+			<Key ID="STR_HW_WindWinch">
+				<Original>Wind</Original>
+				<English>Wind</English>
+				<Polish>Zwiń</Polish>
+			</Key>
+			<Key ID="STR_HW_OffsetXtitle">
+				<Original>Rope creation point X</Original>
+				<English>Rope creation point X</English>
+				<Polish>Początkowy pkt. liny X</Polish>
+			</Key>
+			<Key ID="STR_HW_OffsetYtitle">
+				<Original>Rope creation point Y</Original>
+				<English>Rope creation point Y</English>
+				<Polish>Początkowy pkt. liny Y</Polish>
+			</Key>
+			<Key ID="STR_HW_OffsetZtitle">
+				<Original>Rope creation point Z</Original>
+				<English>Rope creation point Z</English>
+				<Polish>Początkowy pkt. liny Z</Polish>
+			</Key>
+			<Key ID="STR_HW_OffsetXdesc">
+				<Original>Rope creation point X offset from center of model  entered in standard fashion ex. 10.2</Original>
+				<English>Rope creation point X offset from center of model  entered in standard fashion ex. 10.2</English>
+				<Polish>Początkowy pkt. liny X liczony od środka modelu wprowadzany w sposób standardowy np. 10.2</Polish>
+			</Key>
+			<Key ID="STR_HW_OffsetYdesc">
+				<Original>Rope creation point Y offset from center of model  entered in standard fashion ex. 10.2</Original>
+				<English>Rope creation point Y offset from center of model  entered in standard fashion ex. 10.2</English>
+				<Polish>Początkowy pkt. liny Y liczony od środka modelu wprowadzany w sposób standardowy np. 10.2</Polish>
+			</Key>
+			<Key ID="STR_HW_OffsetZdesc">
+				<Original>Rope creation point Z offset from center of model  entered in standard fashion ex. 10.2</Original>
+				<English>Rope creation point Z offset from center of model  entered in standard fashion ex. 10.2</English>
+				<Polish>Początkowy pkt. liny Z liczony od środka modelu wprowadzany w sposób standardowy np. 10.2</Polish>
+			</Key>
+			<Key ID="STR_HW_MemoryPointTitle">
+				<Original>Memory point</Original>
+				<English>Memory point</English>
+				<Polish>Nazwa punktu</Polish>
+			</Key>
+			<Key ID="STR_HW_MemoryPointDesc">
+				<Original>Rope creation memory point of model ex. navijak in RHS UH60 MEV</Original>
+				<English>Rope creation memory point of model ex. navijak in RHS UH60 MEV</English>
+				<Polish>Nazwa punktu początkowego liny zdefiniowana w modelu pojazdu np. 'navijak' w RHS UH60 MEV</Polish>
+			</Key>
+			<Key ID="STR_HW_SetTypeTitle">
+				<Original>Rope initial point</Original>
+				<English>Rope initial point</English>
+				<Polish>Początkowy pkt. liny</Polish>
+			</Key>
+			<Key ID="STR_HW_SetTypeDesc">
+				<Original>Rope initial point type - enter as XYZ offset coorinates or as model memory point</Original>
+				<English>Rope initial point type - enter as XYZ offset coorinates or as model memory point</English>
+				<Polish>Początkowy pkt. liny - wprowadź jako koordynaty XYZ względem środka modelu lub jako nazwę zdefiniowanego pkt.</Polish>
+			</Key>
+			<Key ID="STR_HW_TypeMempoint">
+				<Original>Memory point name</Original>
+				<English>Memory point name</English>
+				<Polish>Nazwa punktu modelu</Polish>
+			</Key>
+			<Key ID="STR_HW_TypeArray">
+				<Original>XYZ coordinates</Original>
+				<English>XYZ coordinates</English>
+				<Polish>Koordynaty względem modelu</Polish>
+			</Key>
+		</Container>
+	</Package>
+</Project>
