@@ -16,6 +16,8 @@ _offsetZ = _logic getVariable "offsetZ";
 // Module specific behavior. Function can extract arguments from logic and use them.
 if (_activated) then {
 
+hint str [_offsetX+_offsetY+_offsetZ];
+
 	{
 		[_x, _offsetX, _offsetY, _offsetZ] call HW_fnc_helicopterWinchStart;
 	} forEach _units;

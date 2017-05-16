@@ -15,11 +15,11 @@ class CfgVehicles {
 		displayName = $STR_HW_AddonName;
 		icon = "\hw_helicopterwinch\data\winch.paa";
 		category = "HW_HelicopterWinch";
-		function = "fn_helicopterWinch";
+		function = "HW_fnc_helicopterWinch";
 		functionPriority = 1;
 		isGlobal = 1;
 		isPersistent = 1;
-		isTriggerActivated = 0;
+		isTriggerActivated = 1;
 		isDisposable = 0;
 
 		class Arguments : ArgumentsBaseUnits {
