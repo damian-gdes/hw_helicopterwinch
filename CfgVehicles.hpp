@@ -26,7 +26,7 @@ class CfgVehicles {
 			class Units : Units {};
 			
 			
-			/*
+			
 			class winchPointType {
                 displayName = $STR_HW_SetTypeTitle;
                 description = $STR_HW_SetTypeDesc;
@@ -35,7 +35,6 @@ class CfgVehicles {
                     class winchTypeArray {
                         name = $STR_HW_TypeArray;
                         value = "TypeXYZ";
-                        default = 1;
                     };
                     class winchTypeMempoint {
                         name = $STR_HW_TypeMempoint;
@@ -43,7 +42,7 @@ class CfgVehicles {
                     };
                 };
             };
-			*/
+			
 			
 			
             class offsetX {
@@ -65,14 +64,14 @@ class CfgVehicles {
             };
             
 			
-			/*
+			
 			class memoryPoint {
                 displayName = $STR_HW_MemoryPointTitle;
                 description = $STR_HW_MemoryPointDesc;
                 typeName = "STRING";
             };
 			
-			*/
+			
 
         };
 		
